@@ -11,6 +11,10 @@ public class LateStudent extends StudentDecorator{
 
     @Override
     public double calcFee() {
-        return (LATE_PENALTY_RATE + 1) * student.calcFee();
+//        Base behavior
+        double totalCourseAmount = student.calcFee();
+
+//        Decorated behavior
+        return (LATE_PENALTY_RATE + 1) * totalCourseAmount;
     }
 }
