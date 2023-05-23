@@ -32,8 +32,4 @@ public class HoangThread extends Thread {
             }
         }
     }
-
-    public String getThreadName() {
-        return threadName;
-    }
 }

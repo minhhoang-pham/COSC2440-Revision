@@ -1,4 +1,4 @@
-package Tut.W9.Problem3;
+package Tut.W10.Problem3;
 
 public class Main {
     public static void main (String[] args) {

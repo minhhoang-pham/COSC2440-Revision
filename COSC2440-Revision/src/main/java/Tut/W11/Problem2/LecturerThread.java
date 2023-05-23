@@ -1,7 +1,4 @@
-package Tut.W10.Problem2;
-
-import java.util.ArrayList;
-import java.util.List;
+package Tut.W11.Problem2;
 
 public class LecturerThread extends Thread {
     Lecturer lecturer;

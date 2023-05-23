@@ -1,4 +1,4 @@
-package Tut.W9.Problem2;
+package Tut.W10.Problem2;
 
 public abstract class Hero {
     protected String name;

@@ -1,4 +1,4 @@
-package Tut.W9.Problem2;
+package Tut.W10.Problem2;
 
 public class Bowman extends Hero {
     public static final double DISTANCE_ATTACK_RATIO = 0.3;

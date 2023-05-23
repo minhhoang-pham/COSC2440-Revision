@@ -1,4 +1,4 @@
-package Tut.W9.Problem3;
+package Tut.W10.Problem3;
 
 public interface Observer {
     int getUpperThreshold();
