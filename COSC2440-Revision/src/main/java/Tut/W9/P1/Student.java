@@ -13,7 +13,7 @@ public abstract class Student {
         this.id = id;
         this.name = name;
         this.gpa = gpa;
-        this.courses = new ArrayList<>();
+        this.courses = courses;
     }
 
     public abstract double calcFee();
