@@ -25,7 +25,7 @@ public class Family implements FamilyMembers {
 
     @Override
     public double avgIncome() {
-        int totalIncome = 0;
+        double totalIncome = 0;
         for (FamilyMembers familyMember : familyMembersList) {
             totalIncome += familyMember.getIncome();
         }

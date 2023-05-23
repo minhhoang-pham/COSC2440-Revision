@@ -8,4 +8,16 @@ public class Lecturer {
         this.name = name;
         this.hasProject = false;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public boolean hasProject() {
+        return hasProject;
+    }
+
+    public void setProject(boolean hasProject) {
+        this.hasProject = hasProject;
+    }
 }
