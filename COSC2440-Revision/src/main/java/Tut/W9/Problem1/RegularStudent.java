@@ -1,4 +1,4 @@
-package Tut.W9.P1;
+package Tut.W9.Problem1;
 
 import java.util.List;
 

@@ -1,6 +1,4 @@
-package Tut.W9.P1;
-
-import java.util.List;
+package Tut.W9.Problem1;
 
 public abstract class StudentDecorator extends Student{
     protected Student student;

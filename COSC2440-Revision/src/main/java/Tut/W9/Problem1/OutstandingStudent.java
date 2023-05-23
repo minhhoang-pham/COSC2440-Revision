@@ -1,4 +1,4 @@
-package Tut.W9.P1;
+package Tut.W9.Problem1;
 
 public class OutstandingStudent extends StudentDecorator{
     private static final double FEE_DISCOUNT = 1000;

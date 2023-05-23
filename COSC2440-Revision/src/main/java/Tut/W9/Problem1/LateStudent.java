@@ -1,6 +1,4 @@
-package Tut.W9.P1;
-
-import java.util.List;
+package Tut.W9.Problem1;
 
 public class LateStudent extends StudentDecorator{
     private static final double LATE_PENALTY_RATE = 0.1;

@@ -1,7 +1,6 @@
-package Tut.W9.P1;
+package Tut.W9.Problem1;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {

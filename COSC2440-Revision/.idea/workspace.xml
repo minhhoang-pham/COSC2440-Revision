@@ -5,28 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3eb6e61a-d40f-4a6e-9098-4947207b0cfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem1/EmployeeProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem1/FixedCostProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem1/HourlyProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem1/MonthlyPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem1/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem2/BookInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem3/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem3/FamilyMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem4/HoangThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleTest/Problem4/Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W10/Problem1/TimeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W10/Problem2/Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W10/Problem2/LecturerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W10/Problem2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W10/Problem2/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem2/Bowman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem2/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem2/HeroGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem2/Swordsman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem3/LongRangeObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem3/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem3/PhysicalProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem3/ShortRangeObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tut/W9/P1/LateStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem1/LateStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tut/W9/P1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tut/W9/P1/OutstandingStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem1/OutstandingStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tut/W9/P1/RegularStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem1/RegularStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tut/W9/P1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tut/W9/P1/StudentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tut/W9/Problem1/StudentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tut/W1To4/Project.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tut/W1To4/Project.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -55,18 +58,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Tut.W10.Problem2.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut.W9.Problem2.Main" />
+      <module name="COSC2440-Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut.W9.Problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut.W10.Problem1.TimeThread" />
+      <module name="COSC2440-Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut.W10.Problem1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tut.W10.Problem2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut.W10.Problem2.Main" />
+      <module name="COSC2440-Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut.W10.Problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tut.W9.Problem3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut.W9.Problem3.Main" />
+      <module name="COSC2440-Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut.W9.Problem3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tut.W10.Problem2.Main" />
+        <item itemvalue="Application.TimeThread" />
+        <item itemvalue="Application.Tut.W9.Problem3.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
